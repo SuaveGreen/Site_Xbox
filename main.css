@@ -193,6 +193,11 @@ body {
     #fale-conosco div label {
         margin-left: 35px
     }
+
+    #social-links {
+        margin-left: 35px;
+    }
+    
 }
 
 @media (max-width: 1023px) and (min-width: 768px) {
