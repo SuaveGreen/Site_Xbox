@@ -197,7 +197,7 @@ body {
     #social-links {
         margin-left: 35px;
     }
-    
+
 }
 
 @media (max-width: 1023px) and (min-width: 768px) {
@@ -210,4 +210,26 @@ body {
     #menu-navegacao {
         margin-top: 25px;
     }
+
+    #jogos {
+    margin-left: 50px;
+    }
+
+    #produtos div p {
+        margin-bottom: 50px;
+    }
+
+    #secaoProdutos button {
+        width: 115px;
+    }
+
+    #produto {
+        width: 250px;
+        margin-left: 35px;
+    }
+
+    #cloud-games {
+        margin-top: 38px;
+    }
+
 }
